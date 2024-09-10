@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
 SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:18:18  PAGE    1
-=======
-SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:37:51  PAGE    1
->>>>>>> Stashed changes
 
 ************ OBJECT LISTING ************
 
@@ -68,11 +64,7 @@ P   00000000              _setShape:                       ; function: setShape
 
 
 
-<<<<<<< Updated upstream
 SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:18:18  PAGE    2
-=======
-SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:37:51  PAGE    2
->>>>>>> Stashed changes
 
 
 SCT OFFSET   CODE       C LABEL     INSTRUCTION OPERAND    COMMENT
@@ -138,11 +130,7 @@ SCT OFFSET   CODE       C LABEL     INSTRUCTION OPERAND    COMMENT
 
 
 
-<<<<<<< Updated upstream
 SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:18:18  PAGE    3
-=======
-SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:37:51  PAGE    3
->>>>>>> Stashed changes
 
 
 SCT OFFSET   CODE       C LABEL     INSTRUCTION OPERAND    COMMENT
@@ -208,11 +196,7 @@ SCT OFFSET   CODE       C LABEL     INSTRUCTION OPERAND    COMMENT
 
 
 
-<<<<<<< Updated upstream
 SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:18:18  PAGE    4
-=======
-SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:37:51  PAGE    4
->>>>>>> Stashed changes
 
 
 SCT OFFSET   CODE       C LABEL     INSTRUCTION OPERAND    COMMENT
@@ -246,11 +230,7 @@ SCT OFFSET   CODE       C LABEL     INSTRUCTION OPERAND    COMMENT
     000000E6 430B                   JSR         @R3
     000000E8 31FC                   ADD         R15,R1
           main.c    66        
-<<<<<<< Updated upstream
           main.c    67         int circle[6][6] = {
-=======
-          main.c    67        int circle[6][6] = {
->>>>>>> Stashed changes
           main.c    68            {0, 0, 1, 1, 0, 0},
           main.c    69            {0, 1, 0, 0, 1, 0},
           main.c    70            {1, 0, 0, 0, 0, 1},
@@ -282,11 +262,7 @@ SCT OFFSET   CODE       C LABEL     INSTRUCTION OPERAND    COMMENT
 
 
 
-<<<<<<< Updated upstream
 SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:18:18  PAGE    5
-=======
-SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:37:51  PAGE    5
->>>>>>> Stashed changes
 
 
 SCT OFFSET   CODE       C LABEL     INSTRUCTION OPERAND    COMMENT
@@ -352,11 +328,7 @@ P_T 00000000              _InitializeSystem:               ; function: Initializ
 
 
 
-<<<<<<< Updated upstream
 SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:18:18  PAGE    6
-=======
-SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:37:51  PAGE    6
->>>>>>> Stashed changes
 
 
 SCT OFFSET   CODE       C LABEL     INSTRUCTION OPERAND    COMMENT
@@ -422,11 +394,7 @@ C   00000000              L321:
 
 
 
-<<<<<<< Updated upstream
 SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:18:18  PAGE    7
-=======
-SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:37:51  PAGE    7
->>>>>>> Stashed changes
 
 
 SCT OFFSET   CODE       C LABEL     INSTRUCTION OPERAND    COMMENT
@@ -492,11 +460,7 @@ B_B 00000000              _BR_Size:                        ; static: BR_Size
 
 
 
-<<<<<<< Updated upstream
 SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:18:18  PAGE    1
-=======
-SH SERIES C/C++ Compiler (Ver. 6.0C)                                                                 10-Sep-2024 19:37:51  PAGE    1
->>>>>>> Stashed changes
 
 
 ******** STATISTICS INFORMATION ********
@@ -565,9 +529,5 @@ NUMBER OF INTERNAL/EXTERNAL SYMBOLS:            20
 *** COMMAND PARAMETER ***
 
 
-<<<<<<< Updated upstream
   -subcommand=C:\Users\Nutzer\AppData\Local\Temp\hmk78AC.tmp 
-=======
-  -subcommand=C:\Users\Nutzer\AppData\Local\Temp\hmk6163.tmp 
->>>>>>> Stashed changes
 

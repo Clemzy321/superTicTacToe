@@ -64,11 +64,7 @@ int AddIn_main(int isAppli, unsigned short OptionNum)
         {1, 0, 0, 0, 0, 1}
     };
     
-<<<<<<< Updated upstream
      int circle[6][6] = {
-=======
-    int circle[6][6] = {
->>>>>>> Stashed changes
         {0, 0, 1, 1, 0, 0},
         {0, 1, 0, 0, 1, 0},
         {1, 0, 0, 0, 0, 1},
