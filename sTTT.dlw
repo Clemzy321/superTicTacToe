@@ -2,7 +2,11 @@
 
 [_1]
 Type=5
+<<<<<<< Updated upstream
 Order=2
+=======
+Order=4
+>>>>>>> Stashed changes
 Top=7590
 Left=2250
 Height=6540
@@ -13,11 +17,11 @@ OptionA=0
 
 [_2]
 Type=1
-Order=5
-Top=60
-Left=20010
-Height=7125
-Width=8550
+Order=3
+Top=-75
+Left=14040
+Height=4845
+Width=5625
 State=0
 Flags=00000005
 OptionA=15
@@ -25,9 +29,15 @@ OptionB=15
 
 [_3]
 Type=6
+<<<<<<< Updated upstream
 Order=4
 Top=7110
 Left=21510
+=======
+Order=0
+Top=15
+Left=16875
+>>>>>>> Stashed changes
 Height=6990
 Width=5655
 State=0
@@ -80,7 +90,7 @@ OptionA=0
 
 [_8]
 Type=17
-Order=3
+Order=5
 Top=15
 Left=-15
 Height=11115
@@ -91,7 +101,11 @@ OptionA=0
 
 [_9]
 Type=15
+<<<<<<< Updated upstream
 Order=0
+=======
+Order=1
+>>>>>>> Stashed changes
 Top=30
 Left=2250
 Height=7530
@@ -114,12 +128,20 @@ OptionA=4
 
 [_33]
 Type=16
+<<<<<<< Updated upstream
 Order=1
+=======
+Order=2
+>>>>>>> Stashed changes
 Top=45
 Left=9300
 Height=13260
 Width=10560
 State=0
 Flags=00000038
+<<<<<<< Updated upstream
 Setting=67:26:main.c
+=======
+Setting=65:7:main.c
+>>>>>>> Stashed changes
 OptionA=4

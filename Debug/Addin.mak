@@ -3,8 +3,13 @@
 #
 ############################
 # Directory defines
+<<<<<<< Updated upstream
 TCDIR = D:\Program Files\Casio\OS\SH
 OSDIR = D:\Program Files\Casio\OS
+=======
+TCDIR = D:\Program Files\OS\SH
+OSDIR = D:\Program Files\OS
+>>>>>>> Stashed changes
 APPDIR = C:\Users\Nutzer\OneDrive\Dokumente\GitHub\superTicTacToe
 OUTDIR = C:\Users\Nutzer\OneDrive\Dokumente\GitHub\superTicTacToe\Debug
 
